@@ -1595,6 +1595,23 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-tOzVVeZUpR {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tOzVVeZUpR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOzVVeZUpR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-tLDrkoBa2X {
   padding-top: 0rem;
   padding-bottom: 0rem;
